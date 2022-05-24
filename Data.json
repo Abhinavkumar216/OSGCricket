@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "First Post",
+        "image": "image",
+        "text": " This is text",
+        "currentDateInMilis": 1648175930078
+    },
+    {
+        "id": 2,
+        "title": "Second Post",
+        "image": "",
+        "text": " This is text",
+        "currentDateInMilis": 1648180424378
+    },
+    {
+        "id": 3,
+        "title": "Third Post",
+        "image": "",
+        "text": " This is Another text",
+        "currentDateInMilis": 1648180448100
+    }
+]
